@@ -1,0 +1,6 @@
+Always check project_specs.md before writing code.
+Do not delete existing code unless explicitly told to.
+When using Python, prefer concise and pythonic code.
+When using React, use TypeScript interfaces for props.
+Never leave "TODO" implementation details in the code; write the full implementation.
+Before running commands, verify the OS is compatible.
